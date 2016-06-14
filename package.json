@@ -1,0 +1,15 @@
+{
+  "name": "mobile-toast",
+  "version": "1.0.0",
+  "description": "mobile toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "toast",
+    "mobile-toast"
+  ],
+  "author": "rxk",
+  "license": "ISC"
+}
